@@ -1,0 +1,22 @@
+div .order {
+  padding: 40px;
+  margin: 20px 0;
+  background-color: white;
+  border: 1px solid lightgray;
+  position: relative;
+}
+.order-id {
+  /* position: absolute; */
+  row-gap: 40px;
+  right: 20px;
+}
+
+.total-price{
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+.order-total {
+  font-weight: bold;
+  text-align: right;
+}
